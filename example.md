@@ -20,6 +20,7 @@ This is an example markdown file. You can edit this content using the web interf
 - one more line
 - another line
 - end of the line
+a middle line edit
 - last line
 - last line
 - additional line
