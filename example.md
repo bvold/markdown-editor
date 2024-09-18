@@ -28,5 +28,5 @@ This is an example markdown file. You can edit this content using the web interf
 - something else
 - first time saving
 - second time saving
-saving works
-and displays this line correctly!
+- saving works
+- and displays this line correctly!
