@@ -14,4 +14,3 @@ This is an example markdown file. You can edit this content using the web interf
 - Save changes back to GitHub
 - View rendered markdown
 a new line
-Hi Bianca!
